@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @I.PopVKSKI
+- 👋 Hi, I’m @GPopVSI
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning I don't know where to start. Need to know python for scripts
 - 💞️ I’m looking to collaborate open for any cooperation
